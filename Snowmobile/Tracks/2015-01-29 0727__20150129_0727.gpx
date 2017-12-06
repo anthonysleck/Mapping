@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="OruxMaps v.6.0.6" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<name><![CDATA[2015-01-29 07:27]]></name>
+<desc><![CDATA[]]></desc>
+<link href="http://www.oruxmaps.com">
+<text>OruxMaps</text>
+</link>
+<time>2015-01-29T13:27:10Z</time><bounds maxlat="43.0944049" maxlon="-88.0597634" minlat="43.0944049" minlon="-88.0597634"/>
+</metadata>
+<trk>
+<name><![CDATA[2015-01-29 07:27]]></name>
+<desc><![CDATA[<h1>OruxMaps</h1><br /><hr align="center" width="480" style="height: 2px; width: 517px"/><h2>Name: 2015-01-29 07:27</h2><br /><p>Start time: 01/29/2015 07:27</p><p>Finish time: 01/29/2015 07:27</p><p>Distance: 0mi (00:00)</p><p>Moving time: 00:00</p><p>Average speed: 0mph</p><p>Avg. Speed Mov.: 0mph</p><p>Max. Speed: 0mph</p><p>Minimum altitude: 541ft</p><p>Maximum altitude: 541ft</p><p>Elevation gain: 0ft</p><p>Elevation loss: 0ft</p><p>Ascent time: 00:00</p><p>Descent time: 00:00</p><hr align="center" width="480" style="height: 2px; width: 517px"/>]]></desc>
+<type>Snowmobiling</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="TYPE" subtype="0">24</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+<trkseg>
+<trkpt lat="43.0944049" lon="-88.0597634">
+<ele>165.00</ele>
+<time>2015-01-29T13:27:11Z</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="43.156497962775369" minlon="-88.292877981441222" maxlat="43.156497962775369" maxlon="-88.292877981441222" />
+  </metadata>
+  <rte>
+    <name>Track1_Route1_01-FEB-20</name>
+    <rtept lat="43.156497962775369" lon="-88.292877981441222">
+      <time>2014-02-01T07:23:32Z</time>
+      <name>Position 11000</name>
+      <type>ROUTE</type>
+      <extensions>
+        <ogr:lat>43.156497962775369</ogr:lat>
+        <ogr:lon>-88.292877981441222</ogr:lon>
+        <ogr:y_proj>213965.98436459692</ogr:y_proj>
+        <ogr:x_proj>666888.91665135417</ogr:x_proj>
+        <ogr:new_seg>True</ogr:new_seg>
+      </extensions>
+    </rtept>
+  </rte>
+</gpx>
